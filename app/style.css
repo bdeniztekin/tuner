@@ -1,11 +1,11 @@
 html {
   height: 100%;
-  color: #828282;
 }
 
 body {
   position: fixed;
   font-family: sans-serif;
+  background-color: gray;
   color: #2c3e50;
   margin: 0;
   width: 100%;
